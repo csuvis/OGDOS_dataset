@@ -13,7 +13,7 @@ All real-world graphs in OGDOS are sourced from well-known graph datasets listed
 
 All graphs in OGDOS are provided in 'OGDOS' folder. The code for processing real-world graphs is provided in 'Code' folder.
 
-## 'OGDOS' folder
+## 'OGDOS.zip' 
 
 In this folder, each graph in OGDOS is stored as a “.json” file in a specific directory path, which reflects its corresponding scale levels. For example, a “.json” file located at the “…\OGDOS \ 100 \ 1 \” folder represents a graph with a node scale of 100 and an edge-to-node ratio of 1. The source types of these graphs in OGDOS are provided in Table 2.
 
@@ -25,3 +25,6 @@ In this folder, the codes for processing real-world graphs are provided in the f
 
 In this folder, the Table 1 (**List of well-known graph datasets and the categorization perspectives they provide.**) and Table 2 (**The source types of graphs in OGDOS.**) are provided.
 
+# Reference Paper
+
+Ying Zhao, Xianzhe Zou, Xiao Wang, Zhanpeng Yang, Xuan Wang, Xin Zhao, Ning Zhang, Xin Huang, Fangfang Zhou. An Open Graph Dataset Organized by Scales[J]. Scientific Data, 12(1):898, 2025. https://doi.org/10.1038/s41597-025-05077-7.
